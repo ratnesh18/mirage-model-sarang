@@ -50,11 +50,11 @@ export default function Index(props) {
         //-
     
         //leftHand
-        var leftHand_texture1 = loader1.load("glass/robot 003_left_hand_BaseMap.png");
+        var leftHand_texture1 = loader1.load("glass/robot 003_Left_hand_BaseMap.png");
         leftHand_texture1.flipY=false
-        var leftHand_texture2 = loader1.load("glass/robot 003_left_hand_MaskMap.png");
+        var leftHand_texture2 = loader1.load("glass/robot 003_Left_hand_MaskMap.png");
         leftHand_texture2.flipY=false
-        var leftHand_texture3 = loader1.load("glass/robot 003_left_hand_Normal.png");
+        var leftHand_texture3 = loader1.load("glass/robot 003_Left_hand_Normal.png");
         leftHand_texture3.flipY=false
     
         //-
