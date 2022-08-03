@@ -58,6 +58,12 @@ video {
   width: 100%;
   height: 100%;
   object-fit: contain;
+  border-radius: 10px;
+}
+.customheight{
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
 }
 
 .logobacking {
@@ -130,3 +136,14 @@ video {
 .hidden {
   display: none !important;
 }
+.selficover{
+  position: absolute;
+    top: 9vh;
+}
+.selficover img
+  {   border-radius: 10px;}
+.vidarea{
+  position: relative;
+}
+
+

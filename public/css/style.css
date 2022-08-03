@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;600;700;800&display=swap');
+body{
+    background-image: url(../img/REGISTRATION.png)!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Orbitron', sans-serif;
+    color: #fff!important;
+    font-weight: 700!important;
+    background-attachment: fixed;
+}
+
+.formbg{
+    background-color:rgba(0,0,0,0.5);
+    border-radius: .75rem;
+    padding: 1rem;
+    border: solid 6px rgba(15,102,168,0.5);
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+.frm-text{
+    font-size: .7rem;
+}
+.navhdr{
+background-color: #0F66A8;
+padding:10px;
+}
+.user-pic{
+    border: solid 6px rgba(15,102,168,0.5);
+    border-radius: 10rem;
+}
+.btn-mirage{
+    background-color: #0F66A8;
+    color:#fff
+}
+.btn-mirage:hover{
+    background-color: #0F66A8;
+    color:#fff
+}
+.canvasdiv{
+    height: 60vh;
+    width: 50vh;
+    background-color: #fff;
+    overflow: hidden;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.btn-mirage-reset{
+    background-color: #FF0000;
+    color:#fff
+}
+.btn-mirage-reset:hover{
+    background-color: #FF0000;
+    color:#fff
+}
+h1, h2, h3, h4, h5{
+    font-family: 'Orbitron', sans-serif!important;
+}
+button, input, optgroup, select, textarea{
+    font-family: 'Orbitron', sans-serif!important;
+}
+button{
+    background-color: transparent;
+    border: none;
+}
+a {
+    cursor: pointer;
+}
+.h50{
+    height: 50px;
+}
